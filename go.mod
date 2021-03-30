@@ -11,6 +11,6 @@ require (
 	github.com/rubenv/sql-migrate v0.0.0-20210215143335-f84234893558
 	github.com/sirupsen/logrus v1.8.1
 	github.com/tomasen/realip v0.0.0-20180522021738-f0c99a92ddce
-	github.com/vxcontrol/golua v0.0.0-20210322074445-d1468187c929
-	github.com/vxcontrol/luar v0.0.0-20210322093134-8f1f70bcbe96
+	github.com/vxcontrol/golua v1.0.0
+	github.com/vxcontrol/luar v1.0.0
 )
